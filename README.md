@@ -25,3 +25,7 @@ This project demonstrates a simple implementation of image steganography using P
   Install via pip:  
   ```bash
   pip install opencv-python
+-[NumPy](https://pypi.org/project/numpy/)
+ Install via pip:
+ ```bash
+ pip install numpy
