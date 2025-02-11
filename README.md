@@ -36,10 +36,9 @@ This project demonstrates a simple implementation of image steganography using P
 
 - Use the GUI to:
 
-  Upload an image for encryption.
-  Enter the secret message and passcode.
-
-  Encrypt the message and save the stego-image.
+  - Upload an image for encryption.
+  - Enter the secret message and passcode.
+  - Encrypt the message and save the stego-image.
 
   Load an encrypted image and decrypt the message.
 ## License
