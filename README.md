@@ -39,8 +39,7 @@ This project demonstrates a simple implementation of image steganography using P
   - Upload an image for encryption.
   - Enter the secret message and passcode.
   - Encrypt the message and save the stego-image.
-
-  Load an encrypted image and decrypt the message.
+  - Load an encrypted image and decrypt the message.
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
