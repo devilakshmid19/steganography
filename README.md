@@ -29,15 +29,15 @@ This project demonstrates a simple implementation of image steganography using P
   Install via pip:
   ```bash
   pip install numpy
-## Usage
-- Run the program:
-  ```bash
-  python steganography.py
 
 ## 🚀 Live Demo
 - Try the Steganography App here:  
 - [🔗 Click to Open](https://steganography.streamlit.app)
 
+## Usage
+- Run the program:
+  ```bash
+  python steganography.py
 
 - Use the GUI to:
 
