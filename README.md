@@ -34,6 +34,11 @@ This project demonstrates a simple implementation of image steganography using P
   ```bash
   python steganography.py
 
+## 🚀 Live Demo
+- Try the Steganography App here:  
+- [🔗 Click to Open](https://steganography.streamlit.app)
+
+
 - Use the GUI to:
 
   - Upload an image for encryption.
